@@ -2,6 +2,7 @@
 
 const path = require('path');
 const express = require('express');
+const sqlite3 = require('sqlite3').verbose();
 
 const PORT = process.env.PORT || 3001;
 

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.c917130d.js",
+    "main.css": "/static/css/main.5634e5de.css",
+    "main.js": "/static/js/main.f5f7cf87.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/vfiprologo.png": "/static/media/vfiprologo.5ce494d27babd494f350.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.c917130d.js.map": "/static/js/main.c917130d.js.map",
+    "main.5634e5de.css.map": "/static/css/main.5634e5de.css.map",
+    "main.f5f7cf87.js.map": "/static/js/main.f5f7cf87.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c917130d.js"
+    "static/css/main.5634e5de.css",
+    "static/js/main.f5f7cf87.js"
   ]
 }

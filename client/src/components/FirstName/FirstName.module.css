@@ -1,0 +1,50 @@
+.component223 {
+  transform-origin: top left;
+  position: absolute;
+  left: 26.8844%;
+  right: 26.8845%;
+  top: 36.5707%;
+  bottom: 58.0336%;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.rectangle {
+  position: absolute;
+  left: 0px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 8px;
+  background-color: #f6f6f6;
+}
+.damola {
+  opacity: 1;
+  color: #828282;
+  font-size: 14px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.6696%;
+  right: 0.0%;
+  top: 27.7778%;
+  bottom: 25.5556%;
+  height: min-content;
+  flex-direction: column;
+}
+.firstName {
+  transform-origin: top left;
+  color: #828282;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 26.8844%;
+  right: 63.9259%;
+  top: 33.0935%;
+  bottom: 64.7482%;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}

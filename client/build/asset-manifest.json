@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2405c233.css",
+    "main.js": "/static/js/main.d7cb2788.js",
+    "static/media/vfiprologo.png": "/static/media/vfiprologo.5ce494d27babd494f350.png",
+    "index.html": "/index.html",
+    "main.2405c233.css.map": "/static/css/main.2405c233.css.map",
+    "main.d7cb2788.js.map": "/static/js/main.d7cb2788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2405c233.css",
+    "static/js/main.d7cb2788.js"
+  ]
+}

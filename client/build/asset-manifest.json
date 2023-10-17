@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2405c233.css",
-    "main.js": "/static/js/main.ca699d3f.js",
+    "main.css": "/static/css/main.df4f0b7c.css",
+    "main.js": "/static/js/main.f3326d02.js",
     "static/media/vfiprologo.png": "/static/media/vfiprologo.5ce494d27babd494f350.png",
     "index.html": "/index.html",
-    "main.2405c233.css.map": "/static/css/main.2405c233.css.map",
-    "main.ca699d3f.js.map": "/static/js/main.ca699d3f.js.map"
+    "main.df4f0b7c.css.map": "/static/css/main.df4f0b7c.css.map",
+    "main.f3326d02.js.map": "/static/js/main.f3326d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.2405c233.css",
-    "static/js/main.ca699d3f.js"
+    "static/css/main.df4f0b7c.css",
+    "static/js/main.f3326d02.js"
   ]
 }
